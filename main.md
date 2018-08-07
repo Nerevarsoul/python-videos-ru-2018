@@ -14,6 +14,47 @@
 
 # События
 
+## PyCon Russia 2018
+
+Событие: http://pycon.ru/2018/
+
+Дата: **22-23 июля 2018**
+
+*22 июля 2018*
+
+| | | |
+| --- | :---: | --- |
+| [Asyncio сегодня и завтра]() Юрий Селиванов (EdgeDB, asyncio) | | |
+| [Reinforcement Learning]() Melanie Warrick (Google) | | |
+| [SSLError, now what?]() Christian Heimes (Red Hat) | | |
+| [Aiohttp от автора]() Андрей Светлов (Python Core Developer) | | |
+| [Serverless + Python на примере AWS Lambda](https://www.youtube.com/watch?v=jKuOQoVHKmQ) Виталий Давыдов (Poteha Developers) | 40:30 | |
+| [Tornado vs Aiohttp]() Дмитрий Ходаков, (Avito) | | |
+| [Industrial Data Pipelines with Python and Airflow](https://www.youtube.com/watch?v=4HvctU0UHGg) Alejandro Saucedo (Eigen Technologies) | 44:32 | |
+| [Асинхронность изнутри]() Алексей Кузьмин (ДомКлик) | | |
+| [Архитектура чат-бота](https://www.youtube.com/watch?v=SQgyo90k_jg) Марина Камалова (Яндекс) | 38:50 | |
+| [Как перестать заботиться об окружении и начать жить]() Антон Патрушев (Spherical) | | |
+| [SQLAlchemy: Python vs Raw SQL](https://www.youtube.com/watch?v=jUGK-CtM-Mk) Денис Катаев (Tinkoff.ru) | 33:56 | |
+
+*23 июля 2018*
+
+| | | |
+| --- | :---: | --- |
+| [Technical Debt and Python]() Kate Heddleston (Shift) | | |
+| [Type annotations with large(r) codebases]() Stephan Jaensch (Yelp) | | |
+| [NLP to Discover Rich Insights from Massive Noisy Text]() Ling Zhang (Aiden.ai) | | |
+| [Сделано на коленке: как из парсера получился полноценный проекта](https://www.youtube.com/watch?v=HoZntJ4HQTk) Елена Никитина (Система) | 28:49 | |
+| [Машинное обучение для извлечения данных из веба]() Михаил Коробов (ScrapingHub) | | |
+| [Переход на SOA в существующем Python-проекте. Тяжеловато или ничего?](https://www.youtube.com/watch?v=kB1tfn9c7Jg) Евгений Слезко (Marilyn System) | 39:07 | |
+| [High Performance Data Processing in Python]() Donald Whyte (Engineers Gate) | | |
+| [Как поддерживать согласованность API в микросервисной архитектуре](https://www.youtube.com/watch?v=ANDGRmKKEG0) Максим Мазаев (ЦИАН) | 34:43 | |
+| [7 советов по редактированию кода в PyCharm]() Андрей Власовских (JetBrains) | | |
+| [Сборка Docker образов без build зависимостей](https://www.youtube.com/watch?v=_Q_KtFupbp8) Александр Кошелев (Яндекс) | 40:48 | |
+| [Спортивное программирование на Python]() Андрей Солдатенко (Toptal) | | |
+| [Как сделать удобную для пользователей поисковую систему](https://www.youtube.com/watch?v=Edelnw2kPhA) Сергей Карпович, Вадим Березкин (mos.ru) | 39:20 | |
+| [Юнит-тесты в проектах Поиска mail.ru]() Вадим Пуштаев (Mail.Ru) | | |
+| [Core Development Panel]() Юрий Селиванов, Андрей Светлов и Christian Heimes | | |
+
 ## Moscow Python Meetup № 56
 
 Событие: http://www.moscowpython.ru/meetup/56/
