@@ -25,34 +25,34 @@
 | | | |
 | --- | :---: | --- |
 | [Asyncio сегодня и завтра]() Юрий Селиванов (EdgeDB, asyncio) | | |
-| [Reinforcement Learning]() Melanie Warrick (Google) | | |
-| [SSLError, now what?]() Christian Heimes (Red Hat) | | |
-| [Aiohttp от автора]() Андрей Светлов (Python Core Developer) | | |
-| [Serverless + Python на примере AWS Lambda](https://www.youtube.com/watch?v=jKuOQoVHKmQ) Виталий Давыдов (Poteha Developers) | 40:30 | |
-| [Tornado vs Aiohttp]() Дмитрий Ходаков, (Avito) | | |
-| [Industrial Data Pipelines with Python and Airflow](https://www.youtube.com/watch?v=4HvctU0UHGg) Alejandro Saucedo (Eigen Technologies) | 44:32 | |
-| [Асинхронность изнутри]() Алексей Кузьмин (ДомКлик) | | |
-| [Архитектура чат-бота](https://www.youtube.com/watch?v=SQgyo90k_jg) Марина Камалова (Яндекс) | 38:50 | |
-| [Как перестать заботиться об окружении и начать жить]() Антон Патрушев (Spherical) | | |
-| [SQLAlchemy: Python vs Raw SQL](https://www.youtube.com/watch?v=jUGK-CtM-Mk) Денис Катаев (Tinkoff.ru) | 33:56 | |
+| [Melanie Warrick, Google «Reinforcement»](https://www.youtube.com/watch?v=pggEazy1dh0) | 48:42 | |
+| [Christian Heimes, Red Hat «SSLError, now what?»](https://www.youtube.com/watch?v=0r0XhzPHRAw) | 57:18 | |
+| [Андрей Светлов, Python Core Developer «Aiohttp от автора»](https://www.youtube.com/watch?v=5NrnBu1vcKo) | 41:24 | |
+| [Виталий Давыдов, POTEHA DEVELOPERS «Serverless + Python на примере AWS Lambda»](https://www.youtube.com/watch?v=jKuOQoVHKmQ) | 40:30 | |
+| [Дмитрий Ходаков, Авито «Tornado vs Aiohttp»](https://www.youtube.com/watch?v=BbyVHtsIM1M) | 37:10 | |
+| [Alejandro Saucedo, Eigen Technologies «Industrial Data Pipelines with Python and Airflow»](https://www.youtube.com/watch?v=4HvctU0UHGg) | 44:32 | |
+| [Алексей Кузьмин, ДомКлик «Асинхронность изнутри»](https://www.youtube.com/watch?v=pZkerqks43Y) | 33:06 | |
+| [Марина Камалова, Яндекс «Архитектура чат-бота»](https://www.youtube.com/watch?v=SQgyo90k_jg) | 38:50 | |
+| [Антон Патрушев, Spherical «Как перестать заботиться об окружении и начать жить»](https://www.youtube.com/watch?v=eQT51_iNuVE) | 28:28 | |
+| [Денис Катаев, Tinkoff.ru «SQLAlchemy: Python vs Raw SQL»](https://www.youtube.com/watch?v=jUGK-CtM-Mk) | 33:56 | |
 
 *23 июля 2018*
 
 | | | |
 | --- | :---: | --- |
 | [Technical Debt and Python]() Kate Heddleston (Shift) | | |
-| [Type annotations with large(r) codebases]() Stephan Jaensch (Yelp) | | |
-| [NLP to Discover Rich Insights from Massive Noisy Text]() Ling Zhang (Aiden.ai) | | |
-| [Сделано на коленке: как из парсера получился полноценный проекта](https://www.youtube.com/watch?v=HoZntJ4HQTk) Елена Никитина (Система) | 28:49 | |
-| [Машинное обучение для извлечения данных из веба]() Михаил Коробов (ScrapingHub) | | |
-| [Переход на SOA в существующем Python-проекте. Тяжеловато или ничего?](https://www.youtube.com/watch?v=kB1tfn9c7Jg) Евгений Слезко (Marilyn System) | 39:07 | |
-| [High Performance Data Processing in Python]() Donald Whyte (Engineers Gate) | | |
-| [Как поддерживать согласованность API в микросервисной архитектуре](https://www.youtube.com/watch?v=ANDGRmKKEG0) Максим Мазаев (ЦИАН) | 34:43 | |
-| [7 советов по редактированию кода в PyCharm]() Андрей Власовских (JetBrains) | | |
-| [Сборка Docker образов без build зависимостей](https://www.youtube.com/watch?v=_Q_KtFupbp8) Александр Кошелев (Яндекс) | 40:48 | |
-| [Спортивное программирование на Python]() Андрей Солдатенко (Toptal) | | |
-| [Как сделать удобную для пользователей поисковую систему](https://www.youtube.com/watch?v=Edelnw2kPhA) Сергей Карпович, Вадим Березкин (mos.ru) | 39:20 | |
-| [Юнит-тесты в проектах Поиска mail.ru]() Вадим Пуштаев (Mail.Ru) | | |
+| [Stephan Jaensch, Yelp «Type annotations with large(r) codebases»](https://www.youtube.com/watch?v=UVAyBDe0--s) | 43:07 | |
+| [Ling Zhang, Aiden.ai «NLP to Discover Rich Insights from Massive Noisy Text»](https://www.youtube.com/watch?v=Jmoe3f0i3w0) | 28:12 | |
+| [Елена Никитина, Система «Сделано на коленке: как из парсера получился полноценный проект»](https://www.youtube.com/watch?v=HoZntJ4HQTk) | 28:49 | |
+| [Михаил Коробов, ScrapingHub «Машинное обучение для извлечения данных из веба»](https://www.youtube.com/watch?v=l11caoD_MFc) | 31:10 | |
+| [Евгений Слезко, Marilyn «Переход на SOA в существующем Python-проекте. Тяжеловато или ничего?»](https://www.youtube.com/watch?v=kB1tfn9c7Jg) | 39:07 | |
+| [Donald Whyte, Engineers Gate «High Performance Data Processing in Python»](https://www.youtube.com/watch?v=MKIrRYKJeAc) | 39:17 | |
+| [Максим Мазаев, ЦИАН «Как поддерживать согласованность API в микросервисной архитектуре»](https://www.youtube.com/watch?v=ANDGRmKKEG0) | 34:43 | |
+| [Андрей Власовских, JetBrains «7 советов по редактированию кода в PyCharm»](https://www.youtube.com/watch?v=FW3_OPBxk2s) | 43:21 | |
+| [Александр Кошелев, Яндекс «Буферизация записи в базу»](https://www.youtube.com/watch?v=_Q_KtFupbp8) | 40:48 | |
+| [Андрей Солдатенко, Toptal «Спортивное программирование на Python»](https://www.youtube.com/watch?v=evA8Xja_pTE) | 29:11 | |
+| [Сергей Карпович, Вадим Березкин, mos.ru «Как сделать удобную для пользователей поисковую систему»](https://www.youtube.com/watch?v=Edelnw2kPhA) | 39:20 | |
+| [Вадим Пуштаев, Mail.Ru «Юнит-тесты в проектах Поиска mail.ru»](https://www.youtube.com/watch?v=npJVGhmQSU4) | 41:56 | |
 | [Core Development Panel]() Юрий Селиванов, Андрей Светлов и Christian Heimes | | |
 
 
