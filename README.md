@@ -10,6 +10,7 @@
 ## Содержание
 
 * [События](#%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
+  * [Moscow Python Meetup № 59](#moscow-python-meetup--59)
   * [PyCon Russia 2018](#pycon-russia-2018)
   * [Moscow Python Meetup № 58](#moscow-python-meetup--58)
   * [PiterPy Meetup \#6](#piterpy-meetup-6)
@@ -17,6 +18,7 @@
   * [Moscow Python Meetup № 56](#moscow-python-meetup--56)
   * [Python Meetup Chelyabinsk \#3](#python-meetup-chelyabinsk-3)
   * [PyCon Ukraine 2018](#pycon-ukraine-2018)
+  * [Minsk Python Meetup](#minsk-python-meetup)
   * [Moscow Python Meetup № 55](#moscow-python-meetup--55)
   * [PiterPy Meetup \#4](#piterpy-meetup-4)
   * [Moscow Python Meetup № 54](#moscow-python-meetup--54)
@@ -32,6 +34,19 @@
 
 
 # События
+
+## Moscow Python Meetup № 59
+
+Событие: http://www.moscowpython.ru/meetup/59/
+
+Дата: **23 августа 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Генетические алгоритмы](https://youtu.be/qtN-I7s4RQE) Глеб Ерофеев (Индивидуальный предприниматель) | 25:00 | [:notebook:](https://speakerdeck.com/moscowdjango/gienietichieskiie-alghoritmy) |
+| [Простые решения машинного обучения в задачах поиска](https://youtu.be/o9uIwIuZMR0) Сергей Карпович (Mos.ru, руководитель группы поиска) | 23:58 | [:notebook:](https://speakerdeck.com/moscowdjango/prostyie-rieshieniia-mashinnogho-obuchieniia-v-zadachakh-poiska) |
+| [Осваиваем pipenv](https://youtu.be/JNT1u3Ri3YY) Александр Хаёров (Ingram Micro Cloud) | 23:47 | [:notebook:](https://speakerdeck.com/moscowdjango/osvaivaiem-pipenv) |
+
 
 ## PyCon Russia 2018
 
@@ -182,6 +197,18 @@
 | [Vladimir Kirillov - Ur/web: web development with one language or what to expect from mypy](https://youtu.be/gnFJFV90YTc) | 39:14 | |
 | ~~Marek Bleschke - Python Type Hints in practice - is it worth it?~~ | | | 
 | [Ivan Levkivskyi - mypy: static types in Python](https://youtu.be/WbdFXxNdSgc) | 54:00 | [:notebook:](https://www.dropbox.com/s/omma003lj31amsh/talk_new_mypy.pdf?dl=0) |
+
+
+## Minsk Python Meetup
+
+Событие: https://python-meetup.timepad.ru/event/682956/
+
+Дата: **25 апреля 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Booster for aiohttp / Дмитрий Бураков / Wargaming](https://youtu.be/IFjbbIrqdPU) | 24:47 | |
+| [Автоматизация регрессионного тестирования в PandaDoc / Дмитрий Закуталин](https://youtu.be/Gwg7pUqJwH8) | 18:41 | |
 
 
 ## Moscow Python Meetup № 55

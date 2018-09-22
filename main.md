@@ -14,6 +14,19 @@
 
 # События
 
+## Moscow Python Meetup № 59
+
+Событие: http://www.moscowpython.ru/meetup/59/
+
+Дата: **23 августа 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Генетические алгоритмы](https://youtu.be/qtN-I7s4RQE) Глеб Ерофеев (Индивидуальный предприниматель) | 25:00 | [:notebook:](https://speakerdeck.com/moscowdjango/gienietichieskiie-alghoritmy) |
+| [Простые решения машинного обучения в задачах поиска](https://youtu.be/o9uIwIuZMR0) Сергей Карпович (Mos.ru, руководитель группы поиска) | 23:58 | [:notebook:](https://speakerdeck.com/moscowdjango/prostyie-rieshieniia-mashinnogho-obuchieniia-v-zadachakh-poiska) |
+| [Осваиваем pipenv](https://youtu.be/JNT1u3Ri3YY) Александр Хаёров (Ingram Micro Cloud) | 23:47 | [:notebook:](https://speakerdeck.com/moscowdjango/osvaivaiem-pipenv) |
+
+
 ## PyCon Russia 2018
 
 Событие: http://pycon.ru/2018/
@@ -53,7 +66,7 @@
 | [Александр Кошелев, Яндекс «Буферизация записи в базу»](https://youtu.be/_Q_KtFupbp8) | 40:47 | |
 | [Андрей Солдатенко, Toptal «Спортивное программирование на Python»](https://youtu.be/evA8Xja_pTE) | 29:11 | [:notebook:](https://www.dropbox.com/s/s0jr485d51tmpl5/Sport%20programming.pdf?dl=0) |
 | [Сергей Карпович, Вадим Березкин, mos.ru «Как сделать удобную для пользователей поисковую систему»](https://youtu.be/Edelnw2kPhA) | 39:19 | |
-| [Вадим Пуштаев, Mail.Ru «Юнит-тесты в проектах Поиска mail.ru»](https://youtu.be/npJVGhmQSU4) | 41:56 | |
+| [Вадим Пуштаев, Mail.Ru «Юнит-тесты в проектах Поиска mail.ru»](https://youtu.be/npJVGhmQSU4) | 41:56 | [:notebook:](https://speakerdeck.com/vadimpushtaev/pycon-russia-2018-unit-testing) |
 | [Core Development Panel — Юрий Селиванов, Андрей Светлов и Christian Heimes](https://youtu.be/E0Gs7C-JctU) | 28:36 | |
 
 
